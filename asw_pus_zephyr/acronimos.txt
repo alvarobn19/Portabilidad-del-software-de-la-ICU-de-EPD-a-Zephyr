@@ -1,0 +1,15 @@
+ASW: Application Software
+CCSDS: Consultative Committee for Space Data Systems
+EDROOM: Embedded Distributed Real-time Object-Oriented Methodology
+FDIR: Fault Detection, Isolation and Recovery
+GSS: Ground Support System
+HK: Housekeeping
+ICU: Instrument Control Unit
+OBT: On-Board Time
+PID: Parameter Identifier
+PUS: Packet Utilization Standard
+RTOS: Real-Time Operating System
+SID: Structure Identifier
+TC: Telecommand
+TM: Telemetry
+UAH: Universidad de Alcalá

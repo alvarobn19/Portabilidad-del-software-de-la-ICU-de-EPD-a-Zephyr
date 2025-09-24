@@ -1,0 +1,607 @@
+
+Current OBT is = 100000
+GSS Rx TM [5,1] Informative EvID = 0x1001 : START_UP 
+
+
+Current OBT is = 100001
+
+Current OBT is = 100002
+
+Current OBT is = 100003
+
+GSS Tx TC[17,1] FT_UAH_ASW_SERV_17_0010 step 0, Connection Test
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [17,2]
+GSS Rx TM [1,7]
+
+Current OBT is = 100004
+
+Current OBT is = 100005
+
+Current OBT is = 100006
+
+Current OBT is = 100007
+
+Current OBT is = 100008
+
+GSS Tx TC[17,1] FT_UAH_ASW_SERV_1_DISABLE_1_7_0020 step 0, Disable TM[1,7]
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [17,2]
+
+Current OBT is = 100009
+GSS Rx TM [3,25] SID 0 Param Values {1.48,2.81,3.38,5.06,-5.02}
+
+Current OBT is = 100010
+
+GSS Tx TC[17,3] FT_UAH_ASW_SERV_1_0030 step 0, Rejected TC
+GSS Rx TM [1,2]: SUBTYPE NOT VALID
+
+Current OBT is = 100011
+
+Current OBT is = 100012
+
+Current OBT is = 100013
+
+Current OBT is = 100014
+
+Current OBT is = 100015
+
+Current OBT is = 100016
+
+Current OBT is = 100017
+
+Current OBT is = 100018
+
+Current OBT is = 100019
+GSS Rx TM [3,25] SID 0 Param Values {1.52,2.75,3.23,4.91,-5.01}
+
+Current OBT is = 100020
+
+Current OBT is = 100021
+
+Current OBT is = 100022
+
+Current OBT is = 100023
+
+Current OBT is = 100024
+
+Current OBT is = 100025
+
+Current OBT is = 100026
+
+Current OBT is = 100027
+
+Current OBT is = 100028
+
+Current OBT is = 100029
+GSS Rx TM [3,25] SID 0 Param Values {1.64,2.91,3.25,4.96,-5.03}
+
+Current OBT is = 100030
+
+Current OBT is = 100031
+
+Current OBT is = 100032
+
+Current OBT is = 100033
+
+Current OBT is = 100034
+
+Current OBT is = 100035
+
+GSS Tx TC[3,6] FT_UAH_ASW_ICU_SERV_3_0040 step 0, Disable SID 0 
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100036
+
+Current OBT is = 100037
+
+Current OBT is = 100038
+
+Current OBT is = 100039
+
+Current OBT is = 100040
+
+Current OBT is = 100041
+
+Current OBT is = 100042
+
+Current OBT is = 100043
+
+Current OBT is = 100044
+
+Current OBT is = 100045
+
+GSS Tx TC[3,5] FT_UAH_ASW_ICU_SERV_3_0050 step 0, Enable SID 11 
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100046
+
+Current OBT is = 100047
+
+Current OBT is = 100048
+
+Current OBT is = 100049
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100050
+
+Current OBT is = 100051
+
+Current OBT is = 100052
+
+Current OBT is = 100053
+
+Current OBT is = 100054
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100055
+
+GSS Tx TC[3,31] FT_UAH_ASW_ICU_SERV_3_0060 step 0, Update SID 10 Rate to 2
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100056
+
+Current OBT is = 100057
+
+Current OBT is = 100058
+
+Current OBT is = 100059
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100060
+
+Current OBT is = 100061
+
+GSS Tx TC[4,6] FT_SOLO_EPD_ICU_SERV_4_0090 step 0, Define Stats PID 1
+
+GSS Tx TC[4,6] FT_SOLO_EPD_ICU_SERV_4_0090 step 1, Define Stats PID 3
+GSS Rx TM [1,1]
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100062
+
+Current OBT is = 100063
+
+Current OBT is = 100064
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100065
+
+Current OBT is = 100066
+
+Current OBT is = 100067
+
+Current OBT is = 100068
+
+Current OBT is = 100069
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100070
+
+Current OBT is = 100071
+
+Current OBT is = 100072
+
+Current OBT is = 100073
+
+Current OBT is = 100074
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100075
+
+Current OBT is = 100076
+
+Current OBT is = 100077
+
+Current OBT is = 100078
+
+Current OBT is = 100079
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100080
+
+Current OBT is = 100081
+
+Current OBT is = 100082
+
+Current OBT is = 100083
+
+Current OBT is = 100084
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100085
+
+Current OBT is = 100086
+
+Current OBT is = 100087
+
+Current OBT is = 100088
+
+Current OBT is = 100089
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100090
+
+GSS Tx TC[4,1] FT_SOLO_EPD_ICU_SERV_4_0090 step 2, Tx Stats
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [4,2] start_time=100061, end_time=100090, N=1
+	{ PID=1, samples=29, Max Value=2.92, max_time=100079, Min Value=2.69, min_time=100089, Mean Value=2.78}
+
+GSS Rx TM [4,2] start_time=100061, end_time=100090, N=1
+	{ PID=3, samples=29, Max Value=5.08, max_time=100065, Min Value=4.88, min_time=100077, Mean Value=4.94}
+
+GSS Rx TM [1,7]
+
+Current OBT is = 100091
+
+Current OBT is = 100092
+
+GSS Tx TC[4,7] FT_SOLO_EPD_ICU_SERV_4_0090 step 3, Delete Stats PID 3
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100093
+
+Current OBT is = 100094
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100095
+
+Current OBT is = 100096
+
+Current OBT is = 100097
+
+Current OBT is = 100098
+
+Current OBT is = 100099
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100100
+
+Current OBT is = 100101
+
+Current OBT is = 100102
+
+Current OBT is = 100103
+
+Current OBT is = 100104
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100105
+
+Current OBT is = 100106
+
+Current OBT is = 100107
+
+Current OBT is = 100108
+
+Current OBT is = 100109
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100110
+
+Current OBT is = 100111
+
+Current OBT is = 100112
+
+Current OBT is = 100113
+
+Current OBT is = 100114
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100115
+
+Current OBT is = 100116
+
+Current OBT is = 100117
+
+Current OBT is = 100118
+
+Current OBT is = 100119
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100120
+
+GSS Tx TC[4,1] FT_SOLO_EPD_ICU_SERV_4_0090 step 4, Tx Stats
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [4,2] start_time=100090, end_time=100120, N=1
+	{ PID=1, samples=30, Max Value=2.92, max_time=100095, Min Value=2.68, min_time=100112, Mean Value=2.77}
+
+GSS Rx TM [1,7]
+
+Current OBT is = 100121
+
+Current OBT is = 100122
+
+Current OBT is = 100123
+
+Current OBT is = 100124
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100125
+
+GSS Tx TC[12,5] FT_UAH_ASW_Monitoring_0100 step 0, Config PMODID 0 for monitoring PID 15 with limits [1,20]
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100126
+
+Current OBT is = 100127
+
+GSS Tx TC[12,1] FT_UAH_ASW_Monitoring_0100 step 1, Enable Monitoring PMODID 0
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100128
+GSS Rx TM [12,12] PMONID = 0 PID 15 Check Limits value = 15 limit = 1 prev status Unchecked current status Within Limits OBT = 100127
+
+
+Current OBT is = 100129
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100130
+
+Current OBT is = 100131
+
+Current OBT is = 100132
+
+Current OBT is = 100133
+
+Current OBT is = 100134
+GSS Rx TM [3,25] SID 11 Param Values {14,15}
+
+Current OBT is = 100135
+
+Current OBT is = 100136
+
+Current OBT is = 100137
+
+Current OBT is = 100138
+
+GSS Tx TC[20,3] FT_UAH_ASW_Monitoring_0100 step 2, Update PID 15 to 99
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100139
+GSS Rx TM [3,25] SID 11 Param Values {14,99}
+GSS Rx TM [12,12] PMONID = 0 PID 15 Check Limits value = 99 limit = 20 prev status Within Limits current status Above High Limit OBT = 100138
+
+GSS Rx TM [5,4] High Severity Anomaly EvID 0x4002  PID 15 = 99 High Limit = 20
+
+
+Current OBT is = 100140
+
+Current OBT is = 100141
+
+Current OBT is = 100142
+
+Current OBT is = 100143
+
+Current OBT is = 100144
+GSS Rx TM [3,25] SID 11 Param Values {14,99}
+
+Current OBT is = 100145
+
+Current OBT is = 100146
+
+Current OBT is = 100147
+
+Current OBT is = 100148
+
+Current OBT is = 100149
+GSS Rx TM [3,25] SID 11 Param Values {14,99}
+
+Current OBT is = 100150
+
+Current OBT is = 100151
+
+Current OBT is = 100152
+
+Current OBT is = 100153
+
+Current OBT is = 100154
+GSS Rx TM [3,25] SID 11 Param Values {14,99}
+
+Current OBT is = 100155
+
+Current OBT is = 100156
+
+Current OBT is = 100157
+
+Current OBT is = 100158
+
+Current OBT is = 100159
+GSS Rx TM [3,25] SID 11 Param Values {14,99}
+
+Current OBT is = 100160
+
+GSS Tx TC[20,3] FT_UAH_ASW_Monitoring_0100 step 3, Update PID 15 to 5
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100161
+GSS Rx TM [12,12] PMONID = 0 PID 15 Check Limits value = 5 limit = 20 prev status Above High Limit current status Within Limits OBT = 100160
+
+
+Current OBT is = 100162
+
+Current OBT is = 100163
+
+Current OBT is = 100164
+GSS Rx TM [3,25] SID 11 Param Values {14,5}
+
+Current OBT is = 100165
+
+Current OBT is = 100166
+
+Current OBT is = 100167
+
+Current OBT is = 100168
+
+Current OBT is = 100169
+GSS Rx TM [3,25] SID 11 Param Values {14,5}
+
+Current OBT is = 100170
+
+Current OBT is = 100171
+
+Current OBT is = 100172
+
+Current OBT is = 100173
+
+Current OBT is = 100174
+GSS Rx TM [3,25] SID 11 Param Values {14,5}
+
+Current OBT is = 100175
+
+Current OBT is = 100176
+
+Current OBT is = 100177
+
+Current OBT is = 100178
+
+Current OBT is = 100179
+GSS Rx TM [3,25] SID 11 Param Values {14,5}
+
+Current OBT is = 100180
+
+GSS Tx TC[20,3] FT_UAH_ASW_Monitoring_0100 step 4, Update PID 15 to 0
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100181
+GSS Rx TM [12,12] PMONID = 0 PID 15 Check Limits value = 0 limit = 1 prev status Within Limits current status Below Low Limit OBT = 100180
+
+GSS Rx TM [5,4] High Severity Anomaly EvID 0x4001  PID 15 = 0 Low Limit = 1
+
+
+Current OBT is = 100182
+
+GSS Tx TC[20,3] FT_UAH_ASW_Event_Action_0130 step 0, Set PID 15 to 5
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100183
+GSS Rx TM [12,12] PMONID = 0 PID 15 Check Limits value = 5 limit = 1 prev status Below Low Limit current status Within Limits OBT = 100182
+
+
+Current OBT is = 100184
+
+GSS Tx TC[12,5] FT_UAH_ASW_Event_Action_0130 step 1, Config PMODID 0 for monitoring PID 15
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+GSS Rx TM [3,25] SID 11 Param Values {14,5}
+
+Current OBT is = 100185
+
+Current OBT is = 100186
+
+GSS Tx TC[19,1] FT_UAH_ASW_Event_Action_0130 step 2, 0x4002 Action is Device  Off
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100187
+
+Current OBT is = 100188
+
+GSS Tx TC[19,4] FT_UAH_ASWEvent_Action_0130 step 3, 0x4002 Action enabled
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100189
+GSS Rx TM [3,25] SID 11 Param Values {14,5}
+
+Current OBT is = 100190
+
+GSS Tx TC[12,1] FT_UAH_ASW_Event_Action_0130 step 4, Enable Monitoring PMODID 0
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100191
+GSS Rx TM [12,12] PMONID = 0 PID 15 Check Limits value = 5 limit = 1 prev status Unchecked current status Within Limits OBT = 100190
+
+
+Current OBT is = 100192
+
+GSS Tx TC[20,3] FT_UAH_ASW_Monitoring_0130 step 5, Update PID 15 to 99
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+
+Current OBT is = 100193
+GSS Rx TM [12,12] PMONID = 0 PID 15 Check Limits value = 99 limit = 20 prev status Within Limits current status Above High Limit OBT = 100192
+
+GSS Rx TM [5,4] High Severity Anomaly EvID 0x4002  PID 15 = 99 High Limit = 20
+
+
+Current OBT is = 100194
+GSS Rx TM [1,3]
+		Device Off
+GSS Rx TM [1,7]
+GSS Rx TM [3,25] SID 11 Param Values {14,99}
+
+Current OBT is = 100195
+
+Current OBT is = 100196
+
+Current OBT is = 100197
+
+Current OBT is = 100198
+
+Current OBT is = 100199
+GSS Rx TM [3,25] SID 11 Param Values {14,99}
+
+Current OBT is = 100200
+
+Current OBT is = 100201
+
+Current OBT is = 100202
+
+Current OBT is = 100203
+
+Current OBT is = 100204
+GSS Rx TM [3,25] SID 11 Param Values {14,99}
+
+Current OBT is = 100205
+
+Current OBT is = 100206
+
+Current OBT is = 100207
+
+Current OBT is = 100208
+
+Current OBT is = 100209
+GSS Rx TM [3,25] SID 11 Param Values {14,99}
+
+Current OBT is = 100210
+
+GSS Tx TC[128,1] END FUNCTIONAL TESTS
+GSS Rx TM [1,1]
+GSS Rx TM [1,3]
+GSS Rx TM [1,7]
+REBOOT
